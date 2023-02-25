@@ -1,0 +1,3 @@
+1. sai lỗi chính tả
+2. Đặt biến bằng 1 function có sẵn mà quên truyền tham số cho hàm đó
+3. Component truyền than số destrusturing (thường hay quên nek)
